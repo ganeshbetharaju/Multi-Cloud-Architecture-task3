@@ -1,3 +1,17 @@
+#CloudComputing
+
+**Company**: CODTECH IT SOLUTIONS
+
+**Name**: BETHARAJU GANESH
+
+**Intern ID**: CT04DZ2046
+
+**Domain**: CLOUD COMPUTING
+
+**Duration**: 4 Weeks
+
+**Mentor**: NEELA SANTHOSH
+
 ---
 
 ## Task 3: Multi-Cloud Architecture Design
